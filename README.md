@@ -44,6 +44,6 @@ The goal of this repository is to give curious learners one platform to look for
 
 ## License
 
-All the credit for the research papers should go towards the authors of the respective papers. All of my interpreation is under [MIT License](https://opensource.org/licenses/MIT).
+All the credit for the research papers should go towards the authors of the respective papers. All of my interpretation is under [MIT License](https://opensource.org/licenses/MIT).
 
 I would like to give all the researchers a shout out for providing excellent quality research.
